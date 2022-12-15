@@ -1,0 +1,11 @@
+{
+  "name": "google_clone",
+  "version": "1.0.0",
+  "description": "proyecto final del curso practido de html y css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "said mariano <smariano170@gmail.com>",
+  "license": "MIT"
+}
